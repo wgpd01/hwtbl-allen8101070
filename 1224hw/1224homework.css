@@ -1,0 +1,18 @@
+body {
+ font-family: 微軟正黑體;
+}
+.tab{
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  border: solid 1px #009100;
+  font-size: 18px;
+}
+.tab caption{
+  font-size:24px;
+  color:green;
+}
+.tab th,td{
+  color:green;
+  border: solid 1px;
+}
